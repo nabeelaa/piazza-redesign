@@ -1,9 +1,9 @@
-# Piazza Redesign
+# Piazza Redesign Proposal
 
 The piece of Piazza that can be redesigned is the message thread on a post. Currently, the piazza message thread allows users to respond to a post in the follow-up discussions. Users can post a followup discussion and other users can reply to on the follow-up discussion thread. This way students interact with one
 another and can have conversations. One way to improve this design would be to add a Follow and Like button. The followup posts that have the most likes appear first. Users will also have the option to follow specific threads instead of following the entire post.
 
-
+![Piazza Redesign](/Piazza-Redesign.png)
 
 ### Cognitive Load
 
